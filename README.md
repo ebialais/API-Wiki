@@ -1,7 +1,7 @@
 # API-Wiki
 
 
-Personal exercise for the implementation of a wikipedia API.
+After 1,5 month of training at Becode, personal exercise for the implementation of a wikipedia API.
 
 The aim was to:
  - set the request
