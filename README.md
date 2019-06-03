@@ -1,16 +1,22 @@
 # API-Wiki
 
-Exercice personnel pour l'implénemtation d'une API wikipedia.
 
-L'objectif était de résussir à :
- - parametrer de la requête
- - contourner le "problème de CORS"...
- - traiter la réponse de la requête
- - implémenter un visuel accueillant les données reçue de la requête, impliquant la manipulation de tableaux imbriqués
+Personal exercise for the implementation of a wikipedia API.
+
+The aim was to:
+ - set the request
+ - to get ride of the "CORS problem"
+ - tprocess the answer of the request
+ - implement a welcoming visual to received the data from the query, involving the manipulation of nested tables
  
- - style : utilisation de bootstrap imposée
+ - style : bootstrap
  
- Le travail peut être visualisé : https://ebialais.github.io/API-Wiki/
+ The work can be see here : https://ebialais.github.io/API-Wiki/
+
+ ## Visual
+
+![View]( img/Screenshot.png)
+
  
  
  
